@@ -410,7 +410,7 @@ y19i = y19.reindex(
 y19i.sample(5)
 
 
-# 3. CONCATENATE INDIVIDUAL DATA TO ONE DATA SET
+# 3. CONCATENATE INDIVIDUAL DATA TO ONE DATA SET AND FILTER AGES BETWEEN 4 AND 10
 # concatenate data sets
 df = pd.concat(
     [y04i, y05i, y06i, y07i, y08i, y10i, y11i, y12i, y13i, y14i, y15i, y18i, y19i],
@@ -425,6 +425,9 @@ df["province"] = df["province"].replace("NWFP ", "NWFP")
 df["province"] = df["province"].replace("Punjab ", "Punjab")
 df["province"] = df["province"].replace("K.P.K", "KPK")
 df["province"] = df["province"].replace("Islamabad", "Punjab")
+
+# filter of children between the ages of 4 and 10
+df = df[(df["age"] > 4) & (df["age"] < 10)].copy()
 
 # preview a sample of the data
 df.sample(5)
