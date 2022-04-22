@@ -1,0 +1,421 @@
+,sex,subprovince,region,sample_population,enrolled_total,rate_enrollment
+0,female,Abbotabad,rural,944,352,0.3728813559322034
+1,female,Abbotabad,urban,0,0,
+2,female,Attock ,rural,631,251,0.3977812995245642
+3,female,Attock ,urban,0,0,
+4,female,Badin ,rural,890,282,0.31685393258426964
+5,female,Badin ,urban,0,0,
+6,female,Bahawal Nagar ,rural,1040,287,0.2759615384615385
+7,female,Bahawal Nagar ,urban,0,0,
+8,female,Bahawalpur,rural,1110,240,0.21621621621621623
+9,female,Bahawalpur,urban,742,335,0.45148247978436656
+10,female,Bahawalpur ,rural,0,0,
+11,female,Bahawalpur ,urban,560,259,0.4625
+12,female,Bannu,rural,0,0,
+13,female,Bannu,urban,667,287,0.4302848575712144
+14,female,Bannu ,rural,1616,543,0.33601485148514854
+15,female,Bannu ,urban,0,0,
+16,female,Batagram ,rural,625,149,0.2384
+17,female,Batagram ,urban,0,0,
+18,female,Bhakar ,rural,1025,249,0.24292682926829268
+19,female,Bhakar ,urban,0,0,
+20,female,Bonair ,rural,1195,452,0.3782426778242678
+21,female,Bonair ,urban,0,0,
+22,female,Chakwal ,rural,276,121,0.4384057971014493
+23,female,Chakwal ,urban,0,0,
+24,female,Charsada,rural,877,223,0.2542759407069555
+25,female,Charsada,urban,0,0,
+26,female,Chitral ,rural,743,221,0.297442799461642
+27,female,Chitral ,urban,0,0,
+28,female,D.G.Khan ,rural,1269,344,0.2710795902285264
+29,female,D.G.Khan ,urban,760,317,0.41710526315789476
+30,female,D.I. Khan,rural,0,0,
+31,female,D.I. Khan,urban,1001,370,0.3696303696303696
+32,female,D.I.Khan ,rural,1425,180,0.12631578947368421
+33,female,D.I.Khan ,urban,0,0,
+34,female,Dadu ,rural,1869,399,0.21348314606741572
+35,female,Dadu ,urban,0,0,
+36,female,Faisalabad,rural,0,0,
+37,female,Faisalabad,urban,1254,496,0.39553429027113235
+38,female,Faisalabad ,rural,1325,544,0.41056603773584904
+39,female,Faisalabad ,urban,1450,739,0.5096551724137931
+40,female,Ghotki ,rural,1704,328,0.19248826291079812
+41,female,Ghotki ,urban,0,0,
+42,female,Gujaranwala ,rural,0,0,
+43,female,Gujaranwala ,urban,1330,590,0.44360902255639095
+44,female,Gujranwala,rural,0,0,
+45,female,Gujranwala,urban,737,319,0.43283582089552236
+46,female,Gujranwala ,rural,807,339,0.4200743494423792
+47,female,Gujranwala ,urban,0,0,
+48,female,Gujrat ,rural,791,329,0.415929203539823
+49,female,Gujrat ,urban,0,0,
+50,female,Haifzabad ,rural,600,249,0.415
+51,female,Haifzabad ,urban,0,0,
+52,female,Hangu ,rural,876,223,0.2545662100456621
+53,female,Hangu ,urban,0,0,
+54,female,Haripur ,rural,384,192,0.5
+55,female,Haripur ,urban,0,0,
+56,female,Hazara,rural,0,0,
+57,female,Hazara,urban,979,507,0.5178753830439223
+58,female,Hyderabad,rural,0,0,
+59,female,Hyderabad,urban,3243,1112,0.34289238359543633
+60,female,Hyderabad ,rural,1072,192,0.1791044776119403
+61,female,Hyderabad ,urban,0,0,
+62,female,Islamabad,rural,0,0,
+63,female,Islamabad,urban,571,285,0.4991243432574431
+64,female,Islamabad ,rural,882,430,0.4875283446712018
+65,female,Islamabad ,urban,0,0,
+66,female,Jaccobabad ,rural,2178,280,0.1285583103764922
+67,female,Jaccobabad ,urban,0,0,
+68,female,Jhang,rural,1260,416,0.33015873015873015
+69,female,Jhang,urban,0,0,
+70,female,Jhelum,rural,561,219,0.39037433155080214
+71,female,Jhelum,urban,0,0,
+72,female,Kalat,rural,0,0,
+73,female,Kalat,urban,1469,474,0.32266848196051734
+74,female,Kalat (Div),rural,2952,455,0.15413279132791327
+75,female,Kalat (Div),urban,0,0,
+76,female,Karachi,rural,455,82,0.18021978021978022
+77,female,Karachi,urban,3581,1456,0.4065903378944429
+78,female,Karak ,rural,815,292,0.35828220858895704
+79,female,Karak ,urban,0,0,
+80,female,Kasur ,rural,1185,474,0.4
+81,female,Kasur ,urban,0,0,
+82,female,Khairpur ,rural,1452,398,0.2741046831955923
+83,female,Khairpur ,urban,0,0,
+84,female,Khanewal ,rural,497,162,0.32595573440643866
+85,female,Khanewal ,urban,0,0,
+86,female,Khushab ,rural,343,143,0.41690962099125367
+87,female,Khushab ,urban,0,0,
+88,female,Kohat,rural,0,0,
+89,female,Kohat,urban,1273,477,0.37470542026708564
+90,female,Kohat ,rural,565,178,0.31504424778761064
+91,female,Kohat ,urban,0,0,
+92,female,Kohistan,rural,743,139,0.18707940780619112
+93,female,Kohistan,urban,0,0,
+94,female,Lahore,rural,0,0,
+95,female,Lahore,urban,2942,1253,0.42590074779061865
+96,female,Lahore ,rural,329,140,0.425531914893617
+97,female,Lahore ,urban,0,0,
+98,female,LakkiMarwat ,rural,2208,741,0.33559782608695654
+99,female,LakkiMarwat ,urban,0,0,
+100,female,Larkana,rural,1638,366,0.22344322344322345
+101,female,Larkana,urban,2069,793,0.3832769453842436
+102,female,Layya ,rural,610,166,0.2721311475409836
+103,female,Layya ,urban,0,0,
+104,female,Lodhran ,rural,560,160,0.2857142857142857
+105,female,Lodhran ,urban,0,0,
+106,female,Lower Dir ,rural,1808,700,0.38716814159292035
+107,female,Lower Dir ,urban,0,0,
+108,female,Makran,rural,0,0,
+109,female,Makran,urban,724,262,0.36187845303867405
+110,female,Makran (Div) ,rural,1422,322,0.22644163150492264
+111,female,Makran (Div) ,urban,0,0,
+112,female,Malakand,rural,0,0,
+113,female,Malakand,urban,1492,658,0.4410187667560322
+114,female,Malakand ,rural,747,278,0.37215528781793844
+115,female,Malakand ,urban,0,0,
+116,female,Mandi Bahuddin ,rural,590,257,0.43559322033898307
+117,female,Mandi Bahuddin ,urban,0,0,
+118,female,Manshera ,rural,944,352,0.3728813559322034
+119,female,Manshera ,urban,0,0,
+120,female,Mardan,rural,0,0,
+121,female,Mardan,urban,1386,568,0.4098124098124098
+122,female,Mardan ,rural,1409,563,0.39957416607523066
+123,female,Mardan ,urban,0,0,
+124,female,Mianwali,rural,869,300,0.34522439585730724
+125,female,Mianwali,urban,0,0,
+126,female,Mir pur Khas ,rural,1367,256,0.1872713972201902
+127,female,Mir pur Khas ,urban,0,0,
+128,female,Mirpur Khas,rural,0,0,
+129,female,Mirpur Khas,urban,1424,476,0.3342696629213483
+130,female,Multan ,rural,804,176,0.21890547263681592
+131,female,Multan ,urban,2961,1144,0.38635596082404594
+132,female,Muraffar Garh ,rural,1269,360,0.28368794326241137
+133,female,Muraffar Garh ,urban,0,0,
+134,female,Narowal ,rural,541,239,0.4417744916820702
+135,female,Narowal ,urban,0,0,
+136,female,Naseerabad (Div) ,rural,1765,342,0.19376770538243626
+137,female,Naseerabad (Div) ,urban,0,0,
+138,female,Nasirabad,rural,0,0,
+139,female,Nasirabad,urban,1114,353,0.31687612208258525
+140,female,Nawabshah,rural,908,174,0.19162995594713655
+141,female,Nawabshah,urban,0,0,
+142,female,Nowshera ,rural,719,243,0.3379694019471488
+143,female,Nowshera ,urban,0,0,
+144,female,Nowshero Feroze ,rural,1210,419,0.34628099173553717
+145,female,Nowshero Feroze ,urban,0,0,
+146,female,Okara,rural,859,308,0.3585564610011641
+147,female,Okara,urban,0,0,
+148,female,Pak Pattain ,rural,383,132,0.34464751958224543
+149,female,Pak Pattain ,urban,0,0,
+150,female,Peshawar,rural,0,0,
+151,female,Peshawar,urban,3741,1331,0.3557872226677359
+152,female,Peshawar ,rural,2201,717,0.32576101771921856
+153,female,Peshawar ,urban,0,0,
+154,female,Quetta,rural,0,0,
+155,female,Quetta,urban,3387,1197,0.3534100974313552
+156,female,Quetta (Div) ,rural,4177,1041,0.24922192961455591
+157,female,Quetta (Div) ,urban,0,0,
+158,female,R.Y.Khan ,rural,1689,429,0.2539964476021314
+159,female,R.Y.Khan ,urban,0,0,
+160,female,Rajaanpur,rural,563,165,0.29307282415630553
+161,female,Rajaanpur,urban,0,0,
+162,female,Rawalpindi,rural,0,0,
+163,female,Rawalpindi,urban,1103,413,0.3744333635539438
+164,female,Rawalpindi ,rural,287,115,0.40069686411149824
+165,female,Rawalpindi ,urban,0,0,
+166,female,Rawalpindi  ,rural,0,0,
+167,female,Rawalpindi  ,urban,857,338,0.3943990665110852
+168,female,Sahiwal ,rural,833,345,0.4141656662665066
+169,female,Sahiwal ,urban,0,0,
+170,female,Sargodha ,rural,1061,401,0.37794533459000945
+171,female,Sargodha ,urban,1518,677,0.44598155467720685
+172,female,Shangla ,rural,825,190,0.23030303030303031
+173,female,Shangla ,urban,0,0,
+174,female,Sheikhupura ,rural,1853,761,0.41068537506745817
+175,female,Sheikhupura ,urban,0,0,
+176,female,Shikarpur ,rural,1419,279,0.19661733615221988
+177,female,Shikarpur ,urban,0,0,
+178,female,Sialkot ,rural,1227,521,0.42461287693561534
+179,female,Sialkot ,urban,860,388,0.4511627906976744
+180,female,Sibbi (Div) ,rural,2080,528,0.25384615384615383
+181,female,Sibbi (Div) ,urban,0,0,
+182,female,Sibi,rural,0,0,
+183,female,Sibi,urban,1409,493,0.34989354151880764
+184,female,Sukkar,rural,0,0,
+185,female,Sukkar,urban,641,247,0.38533541341653665
+186,female,Sukkar ,rural,835,233,0.27904191616766466
+187,female,Sukkar ,urban,0,0,
+188,female,Sukkur,rural,0,0,
+189,female,Sukkur,urban,1554,569,0.3661518661518662
+190,female,Swabi ,rural,426,110,0.25821596244131456
+191,female,Swabi ,urban,0,0,
+192,female,Swat ,rural,1670,505,0.3023952095808383
+193,female,Swat ,urban,0,0,
+194,female,T.T.Singh ,rural,910,343,0.3769230769230769
+195,female,T.T.Singh ,urban,0,0,
+196,female,Tank ,rural,752,212,0.28191489361702127
+197,female,Tank ,urban,0,0,
+198,female,Tharparkar ,rural,531,129,0.24293785310734464
+199,female,Tharparkar ,urban,0,0,
+200,female,Thatta ,rural,775,114,0.14709677419354839
+201,female,Thatta ,urban,0,0,
+202,female,UpperDir ,rural,843,298,0.3534994068801898
+203,female,UpperDir ,urban,0,0,
+204,female,Vehari ,rural,929,300,0.32292787944025836
+205,female,Vehari ,urban,0,0,
+206,female,Zhob,rural,0,0,
+207,female,Zhob,urban,1473,490,0.33265444670739985
+208,female,Zhob (Div) ,rural,3119,686,0.21994228919525488
+209,female,Zhob (Div) ,urban,0,0,
+210,male,Abbotabad,rural,869,343,0.3947065592635213
+211,male,Abbotabad,urban,0,0,
+212,male,Attock ,rural,629,242,0.3847376788553259
+213,male,Attock ,urban,0,0,
+214,male,Badin ,rural,1074,361,0.3361266294227188
+215,male,Badin ,urban,0,0,
+216,male,Bahawal Nagar ,rural,1065,325,0.3051643192488263
+217,male,Bahawal Nagar ,urban,0,0,
+218,male,Bahawalpur,rural,933,237,0.2540192926045016
+219,male,Bahawalpur,urban,744,347,0.46639784946236557
+220,male,Bahawalpur ,rural,0,0,
+221,male,Bahawalpur ,urban,790,329,0.41645569620253164
+222,male,Bannu,rural,0,0,
+223,male,Bannu,urban,807,321,0.39776951672862454
+224,male,Bannu ,rural,1648,610,0.37014563106796117
+225,male,Bannu ,urban,0,0,
+226,male,Batagram ,rural,940,259,0.275531914893617
+227,male,Batagram ,urban,0,0,
+228,male,Bhakar ,rural,1213,326,0.26875515251442705
+229,male,Bhakar ,urban,0,0,
+230,male,Bonair ,rural,938,342,0.3646055437100213
+231,male,Bonair ,urban,0,0,
+232,male,Chakwal ,rural,320,147,0.459375
+233,male,Chakwal ,urban,0,0,
+234,male,Charsada,rural,806,267,0.33126550868486354
+235,male,Charsada,urban,0,0,
+236,male,Chitral ,rural,764,286,0.3743455497382199
+237,male,Chitral ,urban,0,0,
+238,male,D.G.Khan ,rural,1343,351,0.26135517498138494
+239,male,D.G.Khan ,urban,708,274,0.3870056497175141
+240,male,D.I. Khan,rural,0,0,
+241,male,D.I. Khan,urban,1071,345,0.32212885154061627
+242,male,D.I.Khan ,rural,1372,264,0.1924198250728863
+243,male,D.I.Khan ,urban,0,0,
+244,male,Dadu ,rural,1694,444,0.26210153482880755
+245,male,Dadu ,urban,0,0,
+246,male,Faisalabad,rural,0,0,
+247,male,Faisalabad,urban,1332,569,0.4271771771771772
+248,male,Faisalabad ,rural,1236,515,0.4166666666666667
+249,male,Faisalabad ,urban,1358,622,0.4580265095729013
+250,male,Ghotki ,rural,1806,395,0.2187153931339978
+251,male,Ghotki ,urban,0,0,
+252,male,Gujaranwala ,rural,0,0,
+253,male,Gujaranwala ,urban,1244,533,0.4284565916398714
+254,male,Gujranwala,rural,0,0,
+255,male,Gujranwala,urban,778,339,0.43573264781491
+256,male,Gujranwala ,rural,967,409,0.42295760082730094
+257,male,Gujranwala ,urban,0,0,
+258,male,Gujrat ,rural,783,334,0.42656449553001274
+259,male,Gujrat ,urban,0,0,
+260,male,Haifzabad ,rural,620,296,0.4774193548387097
+261,male,Haifzabad ,urban,0,0,
+262,male,Hangu ,rural,1296,387,0.2986111111111111
+263,male,Hangu ,urban,0,0,
+264,male,Haripur ,rural,366,179,0.4890710382513661
+265,male,Haripur ,urban,0,0,
+266,male,Hazara,rural,0,0,
+267,male,Hazara,urban,847,429,0.5064935064935064
+268,male,Hyderabad,rural,0,0,
+269,male,Hyderabad,urban,3571,1216,0.34052086250350044
+270,male,Hyderabad ,rural,1070,260,0.24299065420560748
+271,male,Hyderabad ,urban,0,0,
+272,male,Islamabad,rural,0,0,
+273,male,Islamabad,urban,666,306,0.4594594594594595
+274,male,Islamabad ,rural,933,424,0.45444801714898175
+275,male,Islamabad ,urban,0,0,
+276,male,Jaccobabad ,rural,2531,469,0.18530225207427894
+277,male,Jaccobabad ,urban,0,0,
+278,male,Jhang,rural,1257,422,0.33571996817820204
+279,male,Jhang,urban,0,0,
+280,male,Jhelum,rural,428,174,0.40654205607476634
+281,male,Jhelum,urban,0,0,
+282,male,Kalat,rural,0,0,
+283,male,Kalat,urban,1790,629,0.3513966480446927
+284,male,Kalat (Div),rural,3539,681,0.19242723933314496
+285,male,Kalat (Div),urban,0,0,
+286,male,Karachi,rural,461,104,0.22559652928416485
+287,male,Karachi,urban,3860,1586,0.41088082901554407
+288,male,Karak ,rural,936,378,0.40384615384615385
+289,male,Karak ,urban,0,0,
+290,male,Kasur ,rural,936,381,0.40705128205128205
+291,male,Kasur ,urban,0,0,
+292,male,Khairpur ,rural,1674,460,0.2747909199522103
+293,male,Khairpur ,urban,0,0,
+294,male,Khanewal ,rural,370,119,0.3216216216216216
+295,male,Khanewal ,urban,0,0,
+296,male,Khushab ,rural,410,170,0.4146341463414634
+297,male,Khushab ,urban,0,0,
+298,male,Kohat,rural,0,0,
+299,male,Kohat,urban,1515,570,0.37623762376237624
+300,male,Kohat ,rural,497,145,0.2917505030181087
+301,male,Kohat ,urban,0,0,
+302,male,Kohistan,rural,800,195,0.24375
+303,male,Kohistan,urban,0,0,
+304,male,Lahore,rural,0,0,
+305,male,Lahore,urban,3412,1400,0.41031652989449
+306,male,Lahore ,rural,359,144,0.4011142061281337
+307,male,Lahore ,urban,0,0,
+308,male,LakkiMarwat ,rural,1404,488,0.3475783475783476
+309,male,LakkiMarwat ,urban,0,0,
+310,male,Larkana,rural,1808,533,0.2948008849557522
+311,male,Larkana,urban,1733,687,0.39642238892094633
+312,male,Layya ,rural,641,198,0.3088923556942278
+313,male,Layya ,urban,0,0,
+314,male,Lodhran ,rural,518,149,0.2876447876447876
+315,male,Lodhran ,urban,0,0,
+316,male,Lower Dir ,rural,1689,580,0.3433984606275903
+317,male,Lower Dir ,urban,0,0,
+318,male,Makran,rural,0,0,
+319,male,Makran,urban,823,316,0.3839611178614824
+320,male,Makran (Div) ,rural,1625,465,0.28615384615384615
+321,male,Makran (Div) ,urban,0,0,
+322,male,Malakand,rural,0,0,
+323,male,Malakand,urban,1458,674,0.46227709190672156
+324,male,Malakand ,rural,761,299,0.392904073587385
+325,male,Malakand ,urban,0,0,
+326,male,Mandi Bahuddin ,rural,663,282,0.4253393665158371
+327,male,Mandi Bahuddin ,urban,0,0,
+328,male,Manshera ,rural,869,343,0.3947065592635213
+329,male,Manshera ,urban,0,0,
+330,male,Mardan,rural,0,0,
+331,male,Mardan,urban,1493,620,0.41527126590756863
+332,male,Mardan ,rural,1280,543,0.42421875
+333,male,Mardan ,urban,0,0,
+334,male,Mianwali,rural,827,314,0.37968561064087064
+335,male,Mianwali,urban,0,0,
+336,male,Mir pur Khas ,rural,1739,340,0.19551466359977
+337,male,Mir pur Khas ,urban,0,0,
+338,male,Mirpur Khas,rural,0,0,
+339,male,Mirpur Khas,urban,1491,517,0.34674714956405095
+340,male,Multan ,rural,846,198,0.23404255319148937
+341,male,Multan ,urban,3146,1248,0.39669421487603307
+342,male,Muraffar Garh ,rural,1215,306,0.2518518518518518
+343,male,Muraffar Garh ,urban,0,0,
+344,male,Narowal ,rural,575,241,0.4191304347826087
+345,male,Narowal ,urban,0,0,
+346,male,Naseerabad (Div) ,rural,2139,471,0.22019635343618513
+347,male,Naseerabad (Div) ,urban,0,0,
+348,male,Nasirabad,rural,0,0,
+349,male,Nasirabad,urban,1307,394,0.30145371078806427
+350,male,Nawabshah,rural,1263,252,0.1995249406175772
+351,male,Nawabshah,urban,0,0,
+352,male,Nowshera ,rural,726,222,0.30578512396694213
+353,male,Nowshera ,urban,0,0,
+354,male,Nowshero Feroze ,rural,1389,458,0.32973362131029516
+355,male,Nowshero Feroze ,urban,0,0,
+356,male,Okara,rural,1154,461,0.39948006932409014
+357,male,Okara,urban,0,0,
+358,male,Pak Pattain ,rural,496,149,0.3004032258064516
+359,male,Pak Pattain ,urban,0,0,
+360,male,Peshawar,rural,0,0,
+361,male,Peshawar,urban,3736,1379,0.3691113490364026
+362,male,Peshawar ,rural,2292,765,0.3337696335078534
+363,male,Peshawar ,urban,0,0,
+364,male,Quetta,rural,0,0,
+365,male,Quetta,urban,3619,1315,0.36336004421110807
+366,male,Quetta (Div) ,rural,4264,1106,0.2593808630393996
+367,male,Quetta (Div) ,urban,0,0,
+368,male,R.Y.Khan ,rural,1460,421,0.28835616438356165
+369,male,R.Y.Khan ,urban,0,0,
+370,male,Rajaanpur,rural,614,145,0.23615635179153094
+371,male,Rajaanpur,urban,0,0,
+372,male,Rawalpindi,rural,0,0,
+373,male,Rawalpindi,urban,1023,442,0.43206256109481916
+374,male,Rawalpindi ,rural,327,138,0.42201834862385323
+375,male,Rawalpindi ,urban,0,0,
+376,male,Rawalpindi  ,rural,0,0,
+377,male,Rawalpindi  ,urban,753,305,0.4050464807436919
+378,male,Sahiwal ,rural,1060,425,0.4009433962264151
+379,male,Sahiwal ,urban,0,0,
+380,male,Sargodha ,rural,1073,364,0.33923578751164957
+381,male,Sargodha ,urban,1893,790,0.4173269941891178
+382,male,Shangla ,rural,1133,283,0.2497793468667255
+383,male,Shangla ,urban,0,0,
+384,male,Sheikhupura ,rural,2070,838,0.4048309178743961
+385,male,Sheikhupura ,urban,0,0,
+386,male,Shikarpur ,rural,1380,309,0.22391304347826088
+387,male,Shikarpur ,urban,0,0,
+388,male,Sialkot ,rural,869,366,0.42117376294591485
+389,male,Sialkot ,urban,833,369,0.4429771908763505
+390,male,Sibbi (Div) ,rural,2648,689,0.2601963746223565
+391,male,Sibbi (Div) ,urban,0,0,
+392,male,Sibi,rural,0,0,
+393,male,Sibi,urban,1267,508,0.40094711917916337
+394,male,Sukkar,rural,0,0,
+395,male,Sukkar,urban,728,296,0.4065934065934066
+396,male,Sukkar ,rural,1106,312,0.2820976491862568
+397,male,Sukkar ,urban,0,0,
+398,male,Sukkur,rural,0,0,
+399,male,Sukkur,urban,1608,575,0.35758706467661694
+400,male,Swabi ,rural,626,178,0.28434504792332266
+401,male,Swabi ,urban,0,0,
+402,male,Swat ,rural,1857,639,0.3441033925686591
+403,male,Swat ,urban,0,0,
+404,male,T.T.Singh ,rural,789,273,0.34600760456273766
+405,male,T.T.Singh ,urban,0,0,
+406,male,Tank ,rural,699,227,0.32474964234620884
+407,male,Tank ,urban,0,0,
+408,male,Tharparkar ,rural,599,143,0.2387312186978297
+409,male,Tharparkar ,urban,0,0,
+410,male,Thatta ,rural,906,136,0.15011037527593818
+411,male,Thatta ,urban,0,0,
+412,male,UpperDir ,rural,1064,379,0.35620300751879697
+413,male,UpperDir ,urban,0,0,
+414,male,Vehari ,rural,1020,315,0.3088235294117647
+415,male,Vehari ,urban,0,0,
+416,male,Zhob,rural,0,0,
+417,male,Zhob,urban,1718,662,0.3853317811408615
+418,male,Zhob (Div) ,rural,4788,1165,0.24331662489557226
+419,male,Zhob (Div) ,urban,0,0,
